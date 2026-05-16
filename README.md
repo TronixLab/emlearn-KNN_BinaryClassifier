@@ -2,7 +2,7 @@
 
 This project shows how to build a **TinyML binary classifier** with the **K-Nearest Neighbors (KNN)** algorithm in Python and deploy it to an Arduino-compatible target with **emlearn**.
 
-The workflow starts with the **Ionosphere radar signal dataset**, trains a binary classifier that separates **good** and **bad** radar returns, and exports the trained model as embedded C/C++ artifacts for microcontroller inference.
+The workflow starts with the **Ionosphere radar signal dataset**, trains a binary classifier that separates **good** and **bad** radar returns, and exports the trained model as embedded C/C++ code for microcontroller inference.
 
 ## Project overview
 
